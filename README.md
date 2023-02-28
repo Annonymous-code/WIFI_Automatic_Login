@@ -2,6 +2,7 @@
 It gives you automate login of WIFI web login partailly. Its not a full proof but but will do job.
 
 Few things to keep in mind:
+
 1: Your machine should have python installed
 
 2: change the link to login. (.py file)
