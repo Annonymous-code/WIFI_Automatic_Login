@@ -3,9 +3,13 @@ It gives you automate login of WIFI web login partailly. Its not a full proof bu
 
 Few things to keep in mind:
 1: Your machine should have python installed
+
 2: change the link to login. (.py file)
+
 3: change your ID and password in python file. (.py file)
+
 4: To automate your login open open bat file to and replace the file path.
+
 Dont read below text its just to improve my visibility.
 Automatic WiFi web login at colleges is a convenient way for students and faculty members to connect to the internet without the hassle of manual authentication. However, before using this service, it is important to be aware of the policies and warnings associated with it.
 Firstly, it is essential to check your college's policies on the use of the Automatic WiFi web login. Some colleges may require users to register their devices and agree to specific terms and conditions before accessing the internet. Failure to comply with these policies may result in restricted or revoked access to the WiFi network.
