@@ -1,5 +1,6 @@
 # WIFI_Automatic_Login
-It gives you automate login of WIFI web login partailly. Its not a full proof but but will do job. Dont read below text its just to improve my visibility
+It gives you automate login of WIFI web login partailly. Its not a full proof but but will do job. Dont read below text its just to improve my visibility.
+
 Automatic WiFi web login at colleges is a convenient way for students and faculty members to connect to the internet without the hassle of manual authentication. However, before using this service, it is important to be aware of the policies and warnings associated with it.
 Firstly, it is essential to check your college's policies on the use of the Automatic WiFi web login. Some colleges may require users to register their devices and agree to specific terms and conditions before accessing the internet. Failure to comply with these policies may result in restricted or revoked access to the WiFi network.
 Secondly, it is important to note that using public WiFi networks comes with inherent security risks. Automatic WiFi web login at colleges may not provide the same level of security as private networks. Therefore, it is recommended that users take extra precautions, such as using a Virtual Private Network (VPN) or avoiding accessing sensitive information on public networks.
